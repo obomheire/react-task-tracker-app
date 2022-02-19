@@ -41,12 +41,6 @@
       "day": "Dec 26th 2022",
       "reminder": true,
       "id": 8
-    },
-    {
-      "text": "Demo Task 1",
-      "day": "2022",
-      "reminder": true,
-      "id": 9
     }
   ]
 }
